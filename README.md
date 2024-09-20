@@ -1,2 +1,2 @@
 # Redacci-n-T-cnica
-Para gestionar avances del proyecto 
+Toda la información que se extrajo está marcada en 🔴.
